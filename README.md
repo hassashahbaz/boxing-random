@@ -33,5 +33,3 @@ Looking for an entertaining browser game? Play [Boxing Random](https://www.boxin
 ## Conclusion
 
 Boxing Random is an entertaining choice for players who enjoy arcade fighting games, funny physics, and competitive matches with friends. Jump into the ring, throw punches, and see who wins!
-
-Website: https://www.boxingrandom.org/
